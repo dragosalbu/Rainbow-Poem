@@ -5,6 +5,7 @@ yellow
 red 
 blue
 UNICORN second
+PIZZA
 white 
 orange
-that's the rainbow AND THE UNICORN second
+that's the rainbow AND THE UNICORN second and pizza
