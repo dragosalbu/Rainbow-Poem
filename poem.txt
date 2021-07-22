@@ -5,6 +5,8 @@ yellow
 red 
 blue
 UNICORN second
+LEMONS 
+BANANAS
 white 
 orange
-that's the rainbow AND THE UNICORN second
+that's the rainbow AND THE UNICORN second and fruits
