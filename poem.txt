@@ -4,7 +4,7 @@ green
 yellow 
 red 
 blue
-UNICORN
+UNICORN second
 white 
 orange
-that's the rainbow AND THE UNICORN
+that's the rainbow AND THE UNICORN second
