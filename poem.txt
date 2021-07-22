@@ -5,7 +5,9 @@ yellow
 red 
 blue
 UNICORN second
-PIZZA
+LEMONS 
+BANANAS
 white 
 orange
-that's the rainbow AND THE UNICORN second and pizza
+that's the rainbow AND THE UNICORN second and fruits
+
